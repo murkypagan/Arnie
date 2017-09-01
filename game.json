@@ -1,0 +1,78 @@
+{
+  "name": "Arnie",
+  "version": "0.1",
+  "tasks": [
+    {
+      "type": "copy",
+      "id": "copy",
+      "name": "Copy files",
+      "list": [
+        "enemy_card_bg.png",
+        "enemy_tactics_bg.png",
+        "enemy_tactics2_bg.png",
+        "tactics_bg.png",
+        "wound_bg.png"
+      ]
+    },
+    {
+      "type": "deck",
+      "id": "commando_enemies",
+      "result": "commando_enemies.png",
+      "name": "Commando: Enemies",
+      "stats": "enemies_commando.csv",
+      "lang": [ "ru", "en" ],
+      "template": "enemy_card.tpl.html",
+      "deckWidth": 10,
+      "cardWidth": 425,
+      "cardHeight": 680
+    },
+    {
+      "type": "deck",
+      "id": "common_wounds",
+      "result": "common_wounds.png",
+      "name": "Wounds",
+      "stats": "wound.csv",
+      "lang": [ "ru", "en" ],
+      "template": "wound.tpl.html",
+      "deckWidth": 10,
+      "cardWidth": 425,
+      "cardHeight": 680
+    },
+    {
+      "type": "deck",
+      "id": "commando_enemy_tactics",
+      "result": "commando_enemy_tactics.png",
+      "name": "Commando: Enemy Tactics",
+      "stats": "commando_enemy_tactics.csv",
+      "lang": [ "ru", "en" ],
+      "template": "enemy_tactics.tpl.html",
+      "deckWidth": 10,
+      "cardWidth": 425,
+      "cardHeight": 680
+    },
+    {
+      "type": "deck",
+      "id": "commando_enemy_tactics2",
+      "result": "commando_enemy_tactics2.png",
+      "name": "Commando: Enemy Tactics 2",
+      "stats": "commando_enemy_tactics2.csv",
+      "lang": [ "ru", "en" ],
+      "template": "enemy_tactics.tpl.html",
+      "deckWidth": 10,
+      "cardWidth": 425,
+      "cardHeight": 680
+    },
+    {
+      "type": "deck",
+      "id": "commando_tactics",
+      "result": "commando_tactics.png",
+      "name": "Commando: Player Tactics",
+      "stats": "tactics.csv",
+      "lang": [ "ru", "en" ],
+      "template": "tactics.tpl.html",
+      "deckWidth": 10,
+      "cardWidth": 425,
+      "cardHeight": 680
+    }
+  ]
+}

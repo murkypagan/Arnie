@@ -1,0 +1,8 @@
+tmp/
+sources/
+results/
+*.swp
+_tmp_card.html
+*.n
+*lock*
+_old/

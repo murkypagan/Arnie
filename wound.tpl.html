@@ -1,0 +1,46 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<link rel="stylesheet" type="text/css" href="common.css">
+<style>
+
+.body {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  width: 425px;
+  height: 680px;
+}
+
+#layer1 {
+  left: 0px;
+  top: 0px;
+  position: fixed;
+  z-index: 1;
+}
+
+#image {
+  left: 35px;
+  top: 35px;
+  position: fixed;
+  border-radius: 20px;
+  z-index: 2;
+}
+
+#layer3 {
+  left: 0px;
+  top: 0px;
+  position: fixed;
+  z-index: 3;
+}
+</style>
+
+<body>
+  <img id=layer1 src="./wound_layer1.png">
+  <img id=image src="./$IMAGE">
+  <img id=layer3 src="./wound_layer3.png">
+  <p class=text id=title>$TITLE</p>
+  <p class=text id=note>$NOTE</p>
+</body>
+</html>

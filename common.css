@@ -1,0 +1,72 @@
+@font-face {
+  font-family: myFont;
+/*  src: url(./TahomaBold.ttf);*/
+  src: url(./fonts/OpenSans-Bold.ttf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: myFontBold;
+  src: url(./fonts/OpenSans-ExtraBold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: myFontItalic;
+  src: url(./fonts/OpenSans-BoldItalic.ttf);
+  font-weight: italic;
+}
+
+.text {
+  position: fixed;
+  z-index: 4;
+  text-align: center;
+}
+
+i {
+  font-family: myFontItalic;
+}
+
+b {
+  font-family: myFontBold;
+}
+
+#title {
+  font-family: myFontBold;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  left: 60px;
+  top: 302px;
+  width: 310px;
+  height: 37px;
+}
+
+#note
+{
+  font-family: myFont;
+  font-weight: normal;
+  font-size: 17px;
+  left: 60px;
+  top: 370px;
+  width: 300px;
+  height: 211px;
+}
+
+#tactics
+{
+  font-family: myFont;
+  font-weight: normal;
+  font-size: 40px;
+  left: 55px;
+  top: 573px;
+}
+
+#life
+{
+  font-family: myFont;
+  font-weight: normal;
+  font-size: 40px;
+  left: 311px;
+  top: 573px;
+}
