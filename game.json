@@ -19,7 +19,8 @@
         "./images/enemy_card_bg.png",
         "./images/enemy_tactics_bg.png",
         "./images/enemy_tactics2_bg.png",
-        "./images/tactics_bg.png",
+        "./images/commando_tactics_bg.png",
+        "./images/barbarian_tactics_bg.png",
         "./images/wound_bg.png",
         "./images/char_bg.png"
       ]
@@ -72,7 +73,7 @@
       "type": "deck",
       "id": "commando_tactics",
       "result": "commando_tactics.png",
-      "back": "tactics_bg.png",
+      "back": "commando_tactics_bg.png",
       "stats": "commando_tactics.csv",
       "template": "tactics.tpl.html",
       "deckWidth": 10,
@@ -83,7 +84,7 @@
       "type": "deck",
       "id": "barbarian_tactics",
       "result": "barbarian_tactics.png",
-      "back": "tactics_bg.png",
+      "back": "barbarian_tactics_bg.png",
       "stats": "barbarian_tactics.csv",
       "template": "tactics.tpl.html",
       "deckWidth": 10,
