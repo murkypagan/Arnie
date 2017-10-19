@@ -1,7 +1,7 @@
 {
   "SaveName": "Arnie Combat Test TEMPLATE",
   "GameMode": "Arnie Combat Test 03",
-  "Date": "10/11/2017 12:01:31 AM",
+  "Date": "10/20/2017 12:33:16 AM",
   "Table": "Table_Custom",
   "TableURL": "file:///D:/Projects/Arnie/results/background.jpg",
   "Sky": "Sky_Downtown",
@@ -72,9 +72,9 @@
           "rotX": 0.0,
           "rotY": 179.8,
           "rotZ": 0.0,
-          "scaleX": 15.3462687,
+          "scaleX": 15.3472013,
           "scaleY": 11.8970528,
-          "scaleZ": 6.36010551
+          "scaleZ": 6.36046648
         }
       },
       {
@@ -114,9 +114,9 @@
           "rotX": 0.0,
           "rotY": 90.0,
           "rotZ": 0.0,
-          "scaleX": 15.2113667,
+          "scaleX": 15.2122021,
           "scaleY": 11.8970528,
-          "scaleZ": 6.415001
+          "scaleZ": 6.41544962
         }
       },
       {
@@ -128,9 +128,9 @@
           "rotX": 0.0,
           "rotY": 270.0,
           "rotZ": 0.0,
-          "scaleX": 15.2113514,
+          "scaleX": 15.2121868,
           "scaleY": 11.8970528,
-          "scaleZ": 6.415001
+          "scaleZ": 6.41544962
         }
       },
       {
@@ -142,9 +142,9 @@
           "rotX": 0.0,
           "rotY": 270.0,
           "rotZ": 0.0,
-          "scaleX": 15.2113523,
+          "scaleX": 15.2121878,
           "scaleY": 11.8970528,
-          "scaleZ": 6.415001
+          "scaleZ": 6.41544962
         }
       },
       {
@@ -170,9 +170,9 @@
           "rotX": 0.0,
           "rotY": 179.800049,
           "rotZ": 0.0,
-          "scaleX": 15.3462706,
+          "scaleX": 15.3472042,
           "scaleY": 11.8970528,
-          "scaleZ": 6.359884
+          "scaleZ": 6.360264
         }
       },
       {
@@ -198,9 +198,9 @@
           "rotX": 0.0,
           "rotY": 90.0,
           "rotZ": 0.0,
-          "scaleX": 15.2113647,
+          "scaleX": 15.2122,
           "scaleY": 11.8970528,
-          "scaleZ": 6.415001
+          "scaleZ": 6.41544962
         }
       }
     ]
@@ -222,9 +222,9 @@
       "Name": "Die_6",
       "Transform": {
         "posX": 21.91381,
-        "posY": 1.60388923,
+        "posY": 1.60388947,
         "posZ": -6.7088,
-        "rotX": -5.439194E-09,
+        "rotX": 6.100362E-07,
         "rotY": 214.558167,
         "rotZ": 180.0,
         "scaleX": 1.94999957,
@@ -305,9 +305,9 @@
       "Name": "Die_6",
       "Transform": {
         "posX": 23.3476849,
-        "posY": 1.60388947,
+        "posY": 1.60388958,
         "posZ": -8.469101,
-        "rotX": -7.891215E-06,
+        "rotX": 3.38952486E-06,
         "rotY": 75.71063,
         "rotZ": 180.0,
         "scaleX": 1.94999957,
@@ -388,17 +388,17 @@
       "Name": "Notecard",
       "Transform": {
         "posX": -32.0549622,
-        "posY": 1.16300011,
+        "posY": 1.16299975,
         "posZ": 7.29495144,
-        "rotX": 2.51016274E-08,
-        "rotY": 0.002831777,
-        "rotZ": -2.25431478E-08,
+        "rotX": 2.44872371E-08,
+        "rotY": 0.00283190957,
+        "rotZ": -2.7302324E-08,
         "scaleX": 2.89999843,
         "scaleY": 2.89999843,
         "scaleZ": 2.89999843
       },
       "Nickname": "Правила",
-      "Description": "1 Арни - 2 врага\nВраги ходят первыми\n3 атаки врагов = 1 рана\n3 раны = Арни выбывает из боя\nНет Арни в бою? - Конец игры\nУбил врага - Возьми тактик по уровню врага\nВраг должен помереть за один ход или не было\nКончились тактики - Возьми 3 новых",
+      "Description": "1 Арни - 2 врага\nВраги ходят первыми\n3 атаки врагов = 1 рана\n3 раны = Арни выбывает из боя\nНет Арни в бою? - Конец игры\nУбил врага - Возьми тактик по уровню врага\nВраг должен умереть за один ход или не было\nНет тактик - возьми 3 новых, конец хода\nНе играл карт? - Возьми одну",
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -420,9 +420,9 @@
       "Name": "Deck",
       "Transform": {
         "posX": -17.0422478,
-        "posY": 1.2603029,
+        "posY": 1.26030278,
         "posZ": 14.4695454,
-        "rotX": -1.46131605E-08,
+        "rotX": -3.81707324E-08,
         "rotY": 179.958176,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
@@ -2329,10 +2329,10 @@
       "Name": "Deck",
       "Transform": {
         "posX": -10.6081486,
-        "posY": 1.26030278,
+        "posY": 1.2603029,
         "posZ": 14.781312,
-        "rotX": 6.02281261E-07,
-        "rotY": 179.95813,
+        "rotX": -1.62242117E-07,
+        "rotY": 179.958145,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
         "scaleY": 1.0,
@@ -4238,10 +4238,10 @@
       "Name": "Deck",
       "Transform": {
         "posX": -3.64756632,
-        "posY": 1.2603029,
+        "posY": 1.26030278,
         "posZ": 14.9569216,
-        "rotX": 3.75086842E-08,
-        "rotY": 179.95813,
+        "rotX": -1.10687182E-07,
+        "rotY": 179.958145,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
         "scaleY": 1.0,
@@ -6147,10 +6147,10 @@
       "Name": "Deck",
       "Transform": {
         "posX": 2.38924026,
-        "posY": 1.2603029,
+        "posY": 1.26030278,
         "posZ": 15.0964708,
-        "rotX": 7.036352E-08,
-        "rotY": 179.95813,
+        "rotX": 2.9650252E-07,
+        "rotY": 179.958145,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
         "scaleY": 1.0,
@@ -8056,10 +8056,10 @@
       "Name": "Deck",
       "Transform": {
         "posX": 8.55121,
-        "posY": 1.2603029,
+        "posY": 1.26030278,
         "posZ": 15.1338148,
-        "rotX": -5.798594E-08,
-        "rotY": 179.958176,
+        "rotX": 9.802252E-08,
+        "rotY": 179.958191,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
         "scaleY": 1.0,
@@ -9966,9 +9966,9 @@
       "Transform": {
         "posX": 26.98839,
         "posY": 1.2603029,
-        "posZ": 2.67068934,
-        "rotX": -6.52591439E-07,
-        "rotY": 179.979385,
+        "posZ": 2.670689,
+        "rotX": -8.764588E-07,
+        "rotY": 179.97937,
         "rotZ": 180.0,
         "scaleX": 3.77120543,
         "scaleY": 1.0,
@@ -11874,9 +11874,9 @@
       "Name": "Deck",
       "Transform": {
         "posX": 17.1164684,
-        "posY": 1.2603029,
+        "posY": 1.26030278,
         "posZ": 15.3816347,
-        "rotX": 2.55675E-07,
+        "rotX": 1.40751652E-07,
         "rotY": 179.9766,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
@@ -13778,6 +13778,70 @@
         }
       ],
       "GUID": "841a06"
+    },
+    {
+      "Name": "Checker_red",
+      "Transform": {
+        "posX": -26.6328812,
+        "posY": 1.56116021,
+        "posZ": -1.80012429,
+        "rotX": 2.1930216E-06,
+        "rotY": 179.999939,
+        "rotZ": 180.0,
+        "scaleX": 2.399999,
+        "scaleY": 2.399999,
+        "scaleZ": 2.399999
+      },
+      "Nickname": "$brute_force",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4fe339"
+    },
+    {
+      "Name": "Checker_white",
+      "Transform": {
+        "posX": -22.3052311,
+        "posY": 1.56116045,
+        "posZ": -1.73225033,
+        "rotX": -3.14433777E-07,
+        "rotY": -1.882163E-05,
+        "rotZ": 180.0,
+        "scaleX": 2.399999,
+        "scaleY": 2.399999,
+        "scaleZ": 2.399999
+      },
+      "Nickname": "$first_player",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "245e7f"
     }
   ],
   "DecalPallet": [],
