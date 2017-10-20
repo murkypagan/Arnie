@@ -101,6 +101,11 @@
       "deckWidth": 2,
       "cardWidth": 1395,
       "cardHeight": 985
+    },
+    {
+      "type": "replace_names",
+      "id": "names",
+      "list": [ "bare_hands", "first_player" ]
     }
   ]
 }
