@@ -106,6 +106,16 @@
       "type": "replace_names",
       "id": "names",
       "list": [ "bare_hands", "first_player" ]
+    },
+    {
+      "type": "tile",
+      "id": "rules",
+      "result": "rules.png",
+      "back": "char_bg.png",
+      "stats": "rules.csv",
+      "template": "rules.tpl.html",
+      "cardWidth": 1395,
+      "cardHeight": 985
     }
   ]
 }

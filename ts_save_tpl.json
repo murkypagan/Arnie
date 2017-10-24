@@ -1,7 +1,7 @@
 {
   "SaveName": "Arnie Combat Test TEMPLATE",
   "GameMode": "Arnie Combat Test 03",
-  "Date": "10/20/2017 12:33:16 AM",
+  "Date": "10/25/2017 12:51:04 AM",
   "Table": "Table_Custom",
   "TableURL": "file:///D:/Projects/Arnie/results/background.jpg",
   "Sky": "Sky_Downtown",
@@ -72,9 +72,9 @@
           "rotX": 0.0,
           "rotY": 179.8,
           "rotZ": 0.0,
-          "scaleX": 15.3472013,
+          "scaleX": 15.3481045,
           "scaleY": 11.8970528,
-          "scaleZ": 6.36046648
+          "scaleZ": 6.360816
         }
       },
       {
@@ -114,9 +114,9 @@
           "rotX": 0.0,
           "rotY": 90.0,
           "rotZ": 0.0,
-          "scaleX": 15.2122021,
+          "scaleX": 15.21301,
           "scaleY": 11.8970528,
-          "scaleZ": 6.41544962
+          "scaleZ": 6.41588354
         }
       },
       {
@@ -128,9 +128,9 @@
           "rotX": 0.0,
           "rotY": 270.0,
           "rotZ": 0.0,
-          "scaleX": 15.2121868,
+          "scaleX": 15.2129946,
           "scaleY": 11.8970528,
-          "scaleZ": 6.41544962
+          "scaleZ": 6.41588354
         }
       },
       {
@@ -142,9 +142,9 @@
           "rotX": 0.0,
           "rotY": 270.0,
           "rotZ": 0.0,
-          "scaleX": 15.2121878,
+          "scaleX": 15.2129965,
           "scaleY": 11.8970528,
-          "scaleZ": 6.41544962
+          "scaleZ": 6.41588354
         }
       },
       {
@@ -170,9 +170,9 @@
           "rotX": 0.0,
           "rotY": 179.800049,
           "rotZ": 0.0,
-          "scaleX": 15.3472042,
+          "scaleX": 15.3481073,
           "scaleY": 11.8970528,
-          "scaleZ": 6.360264
+          "scaleZ": 6.360585
         }
       },
       {
@@ -198,9 +198,9 @@
           "rotX": 0.0,
           "rotY": 90.0,
           "rotZ": 0.0,
-          "scaleX": 15.2122,
+          "scaleX": 15.213007,
           "scaleY": 11.8970528,
-          "scaleZ": 6.41544962
+          "scaleZ": 6.41588354
         }
       }
     ]
@@ -222,9 +222,9 @@
       "Name": "Die_6",
       "Transform": {
         "posX": 21.91381,
-        "posY": 1.60388947,
+        "posY": 1.60388935,
         "posZ": -6.7088,
-        "rotX": 6.100362E-07,
+        "rotX": -1.48229356E-06,
         "rotY": 214.558167,
         "rotZ": 180.0,
         "scaleX": 1.94999957,
@@ -307,7 +307,7 @@
         "posX": 23.3476849,
         "posY": 1.60388958,
         "posZ": -8.469101,
-        "rotX": 3.38952486E-06,
+        "rotX": 7.782169E-06,
         "rotY": 75.71063,
         "rotZ": 180.0,
         "scaleX": 1.94999957,
@@ -385,44 +385,12 @@
       ]
     },
     {
-      "Name": "Notecard",
-      "Transform": {
-        "posX": -32.0549622,
-        "posY": 1.16299975,
-        "posZ": 7.29495144,
-        "rotX": 2.44872371E-08,
-        "rotY": 0.00283190957,
-        "rotZ": -2.7302324E-08,
-        "scaleX": 2.89999843,
-        "scaleY": 2.89999843,
-        "scaleZ": 2.89999843
-      },
-      "Nickname": "Правила",
-      "Description": "1 Арни - 2 врага\nВраги ходят первыми\n3 атаки врагов = 1 рана\n3 раны = Арни выбывает из боя\nНет Арни в бою? - Конец игры\nУбил врага - Возьми тактик по уровню врага\nВраг должен умереть за один ход или не было\nНет тактик - возьми 3 новых, конец хода\nНе играл карт? - Возьми одну",
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "Hands": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "GUID": "2622ef"
-    },
-    {
       "Name": "Deck",
       "Transform": {
         "posX": -17.0422478,
         "posY": 1.26030278,
         "posZ": 14.4695454,
-        "rotX": -3.81707324E-08,
+        "rotX": -1.87858276E-07,
         "rotY": 179.958176,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
@@ -2331,8 +2299,8 @@
         "posX": -10.6081486,
         "posY": 1.2603029,
         "posZ": 14.781312,
-        "rotX": -1.62242117E-07,
-        "rotY": 179.958145,
+        "rotX": -1.1695802E-07,
+        "rotY": 179.95816,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
         "scaleY": 1.0,
@@ -4240,8 +4208,8 @@
         "posX": -3.64756632,
         "posY": 1.26030278,
         "posZ": 14.9569216,
-        "rotX": -1.10687182E-07,
-        "rotY": 179.958145,
+        "rotX": -3.14059179E-08,
+        "rotY": 179.9582,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
         "scaleY": 1.0,
@@ -6149,8 +6117,8 @@
         "posX": 2.38924026,
         "posY": 1.26030278,
         "posZ": 15.0964708,
-        "rotX": 2.9650252E-07,
-        "rotY": 179.958145,
+        "rotX": -1.3571524E-07,
+        "rotY": 179.9582,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
         "scaleY": 1.0,
@@ -8058,8 +8026,8 @@
         "posX": 8.55121,
         "posY": 1.26030278,
         "posZ": 15.1338148,
-        "rotX": 9.802252E-08,
-        "rotY": 179.958191,
+        "rotX": -4.001598E-08,
+        "rotY": 179.958237,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
         "scaleY": 1.0,
@@ -9967,7 +9935,7 @@
         "posX": 26.98839,
         "posY": 1.2603029,
         "posZ": 2.670689,
-        "rotX": -8.764588E-07,
+        "rotX": 7.355767E-07,
         "rotY": 179.97937,
         "rotZ": 180.0,
         "scaleX": 3.77120543,
@@ -11876,7 +11844,7 @@
         "posX": 17.1164684,
         "posY": 1.26030278,
         "posZ": 15.3816347,
-        "rotX": 1.40751652E-07,
+        "rotX": 6.778667E-08,
         "rotY": 179.9766,
         "rotZ": 180.0,
         "scaleX": 1.99688435,
@@ -13783,14 +13751,14 @@
       "Name": "Checker_red",
       "Transform": {
         "posX": -26.6328812,
-        "posY": 1.56116021,
+        "posY": 1.38582194,
         "posZ": -1.80012429,
-        "rotX": 2.1930216E-06,
+        "rotX": -1.9026545E-06,
         "rotY": 179.999939,
         "rotZ": 180.0,
-        "scaleX": 2.399999,
-        "scaleY": 2.399999,
-        "scaleZ": 2.399999
+        "scaleX": 1.69999957,
+        "scaleY": 1.69999957,
+        "scaleZ": 1.69999957
       },
       "Nickname": "$bare_hands",
       "Description": "",
@@ -13815,14 +13783,14 @@
       "Name": "Checker_white",
       "Transform": {
         "posX": -22.3052311,
-        "posY": 1.56116045,
+        "posY": 1.385822,
         "posZ": -1.73225033,
-        "rotX": -3.14433777E-07,
-        "rotY": -1.882163E-05,
+        "rotX": -1.23620637E-07,
+        "rotY": -1.66448735E-05,
         "rotZ": 180.0,
-        "scaleX": 2.399999,
-        "scaleY": 2.399999,
-        "scaleZ": 2.399999
+        "scaleX": 1.69999957,
+        "scaleY": 1.69999957,
+        "scaleZ": 1.69999957
       },
       "Nickname": "$first_player",
       "Description": "",
@@ -13842,6 +13810,49 @@
       "LuaScript": "",
       "LuaScriptState": "",
       "GUID": "245e7f"
+    },
+    {
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -31.7080269,
+        "posY": 0.9600002,
+        "posZ": 7.694903,
+        "rotX": 3.56618273E-07,
+        "rotY": 180.000015,
+        "rotZ": -1.53655913E-06,
+        "scaleX": 5.66910934,
+        "scaleY": 1.0,
+        "scaleZ": 5.66910934
+      },
+      "Nickname": "$rules",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "file:///D:/Projects/Arnie/results/char_bg.png",
+        "ImageSecondaryURL": "file:///D:/Projects/Arnie/results/char_bg.png",
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "0ec593"
     }
   ],
   "DecalPallet": [],

@@ -1,0 +1,57 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<link rel="stylesheet" type="text/css" href="common.css">
+<style>
+
+.body {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  width: 1395px;
+  height: 985px;
+}
+
+#layer1 {
+  left: 0px;
+  top: 0px;
+  position: fixed;
+  z-index: 1;
+}
+
+.text {
+  position: fixed;
+  z-index: 4;
+  text-align: center;
+  margin: 0px;
+}
+
+#title {
+  font-family: myFontBold;
+  font-size: 64px;
+  font-weight: bold;
+  text-align: center;
+  left: 0px;
+  top: 52px;
+  width: 1395px;
+  height: 71px;
+}
+
+#note {
+  font-family: myFont;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  left: 60px;
+  top: 170px;
+  width: 1335px;
+}
+</style>
+
+<body>
+  <img id=layer1 src="./images/char_bg.png">
+  <p class=text id=title>$TITLE</p>
+  <p class=text id=note>$NOTE</p>
+</body>
+</html>

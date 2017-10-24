@@ -6,3 +6,5 @@ _tmp_card.html
 *.n
 *lock*
 _old/
+results-*/
+saves
