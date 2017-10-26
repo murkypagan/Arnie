@@ -1,6 +1,6 @@
 "IMAGE","%AMOUNT","TITLE.RU","TITLE.EN","NOTE.RU","NOTE.EN"
-"enemy_tactics001.png",20,"ОБЫЧНАЯ АТАКА","BASIC WOUND","<i>Та-да-да-да-да!</i><br><br><b>Фишка</b> - Нет.","<b>Gimmick</b> - None"
-"enemy_tactics_miss.png",10,"ПРОМАХ!",,"<i>Промазал!</i><br><br><b>Фишка</b> - Нет.",
-"enemy_tactics_failure.png",3,"ПОЛНЫЙ ФЕЙЛ!",,"<i>Подрывается на своей гранате...</i><br><br><b>Фишка</b> - Сбросить карту врага.",
-"enemy_tactics_grenade.png",5,"ГРАНАТА",,"<i>Лимонка!</i><br><br><b>Фишка</b> - Бросить куб. На 1-5 сбросить эту карту, на 6 считается как две атаки.",
-"enemy_tactics_helper.png",5,"ПОМОЩНИК",,"<i>Мне нужно подкрепление!</i><br><br><b>Фишка</b> - Положить на поле боя еще одного врага. Новый враг пропускает этот ход. Если в колоде врагов не осталось карт, игнорировать.",
+"enemy_tactics001.png",20,"ОБЫЧНАЯ АТАКА","BASIC ATTACK","<i>Та-да-да-да-да!</i><br><br><b>Фишка</b> - Нет.","<i>Wa-da-da-da-da!</i><br><br><b>Gimmick</b> - None."
+"enemy_tactics_miss.png",10,"ПРОМАХ!","MISS!","<i>Промазал!</i><br><br><b>Фишка</b> - Нет.","<i>Missed me!</i><br><br><b>Gimmick</b> - None."
+"enemy_tactics_failure.png",3,"ПОЛНЫЙ ФЕЙЛ!","CRITICAL FAIL!","<i>Подрывается на своей гранате...</i><br><br><b>Фишка</b> - Сбросить карту врага.","<i>Blows up on his grenade...</i><br><br><b>Gimmick</b> - Discard the enemy card."
+"enemy_tactics_grenade.png",5,"ГРАНАТА","GRENADE","<i>Ложись!</i><br><br><b>Фишка</b> - Бросить куб. На 1-5 сбросить эту карту, на 6 считается как две атаки.","<i>Get down!</i><br><br><b>Gimmick</b> - Roll dice. On 1-5 discard this card, on 6 it counts as two attacks."
+"enemy_tactics_helper.png",5,"ПОМОЩНИК","BACKUP","<i>Мне нужно подкрепление!</i><br><br><b>Фишка</b> - Положить на стол еще одного врага. Новый враг пропускает этот ход. Если в колоде врагов не осталось карт, игнорировать.","<i>I need reinforcements!</i><br><br><b>Gimmick</b> - Put one more enemy on the table. The new enemy skips this turn. If there are no cards in the enemies deck, ignore."

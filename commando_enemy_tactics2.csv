@@ -1,6 +1,6 @@
 "IMAGE","%AMOUNT","TITLE.RU","TITLE.EN","NOTE.RU","NOTE.EN"
-"enemy_tactics001.png",20,"ОБЫЧНАЯ АТАКА","BASIC WOUND","<i>Та-да-да-да-да!</i><br><br><b>Фишка</b> - Нет.","<b>Gimmick</b> - None"
-"enemy_tactics_miss.png",10,"ПРОМАХ!",,"<i>Промазал!</i><br><br><b>Фишка</b> - Нет.",
-"enemy_tactics_rpg.png",3,"РПГ",,"<i>РПГ!</i><br><br><b>Фишка</b> - Бросить куб. На 1-5 сбросить эту карту, на 6 Арни выбывает из боя. Мэтрикс может сбросить карту уворота и остаться.",
-"enemy_tactics_helper.png",3,"ПОМОЩНИК",,"<i>Подкрепление!</i><br><br><b>Фишка</b> - Положить на поле боя еще одного врага. Новый враг пропускает этот ход. Если в колоде врагов не осталось карт, игнорировать.",
-"enemy_tactics_backup.png",3,"ПОДМОГА",,"<i>Подкрепление!</i><br><br><b>Фишка</b> - Положить на поле боя еще двух врагов. Они пропускают этот ход. Если в колоде врагов не осталось карт, игнорировать.",
+"enemy_tactics001.png",20,"ОБЫЧНАЯ АТАКА","BASIC ATTACK","<i>Та-да-да-да-да!</i><br><br><b>Фишка</b> - Нет.","<i>Wa-da-da-da-da!</i><br><br><b>Gimmick</b> - None."
+"enemy_tactics_miss.png",10,"ПРОМАХ!","MISS!","<i>Промазал!</i><br><br><b>Фишка</b> - Нет.","<i>Missed me!</i><br><br><b>Gimmick</b> - None."
+"enemy_tactics_rpg.png",3,"РПГ","RPG","<i>РПГ!</i><br><br><b>Фишка</b> - Бросить куб. На 1-5 сбросить эту карту, на 6 Арни выбывает из боя. Мэтрикс может сбросить карту уворота и остаться.","<i>RPG!</i><br><br><b>Gimmick</b> - Roll dice. On 1-5 discard this card, on 6 Arnie is down and is removed from the battle. Matrix can discard the dodge card to stay."
+"enemy_tactics_helper.png",3,"ПОМОЩНИК","BACKUP","<i>Подкрепление!</i><br><br><b>Фишка</b> - Положить на стол еще одного врага. Новый враг пропускает этот ход. Если в колоде врагов не осталось карт, игнорировать.","<i>I need reinforcements!</i><br><br><b>Gimmick</b> - Put one more enemy on the table. The new enemy skips this turn. If there are no cards in the enemies deck, ignore."
+"enemy_tactics_backup.png",3,"ПОДМОГА","REINFORCEMENTS","<i>Подкрепление!</i><br><br><b>Фишка</b> - Положить на стол еще двух врагов. Они пропускают этот ход. Если в колоде врагов не осталось карт, игнорировать.","<i>We need reinforcements NOW!</i><br><br><b>Gimmick</b> - Put two more enemies on the table. The new enemies skip this turn. If there are no cards in the enemies deck, ignore.",

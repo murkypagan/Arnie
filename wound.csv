@@ -1,4 +1,4 @@
 "IMAGE","%AMOUNT","TITLE.RU","TITLE.EN","NOTE.RU","NOTE.EN"
-"wound001.png",10,"СЛАБАЯ РАНА","BASIC WOUND","<b>Фишка</b> - Арни тратит ход на перевязку.","<b>Gimmick</b> - None"
-"wound001.png",5,"РАНА С ПОДВОХОМ",,"<b>Фишка</b> - Арни тратит ход на перевязку и сбрасывает любую тактику.",
-"wound001.png",2,"СЕРЬЕЗНАЯ РАНА",,"<b>Фишка</b> - Арни тратит ход на перевязку и сбрасывает одну тактику второго или третьего уровня. Если такой тактики нет, тратит два хода.",
+"wound001.png",10,"СЛАБАЯ РАНА","BASIC WOUND","<b>Фишка</b> - Арни тратит ход на перевязку.","<b>Gimmick</b> - Arny loses a turn to bandage the wound."
+"wound001.png",5,"РАНА С ПОДВОХОМ","TRICKY WOUND","<b>Фишка</b> - Арни тратит ход на перевязку и сбрасывает любую тактику.","<b>Gimmick</b> - Arny loses a turn to bandage the wound and needs to discard any tactics card."
+"wound001.png",2,"СЕРЬЕЗНАЯ РАНА","SERIOUS WOUND","<b>Фишка</b> - Арни тратит ход на перевязку и сбрасывает одну тактику второго или третьего уровня. Если такой тактики нет, тратит два хода.","<b>Gimmick</b> - Arny loses a turn to bandage the wound and needs to discard one tactics card of level two or three. If he does not have such card, loses two turns instead."
